@@ -1,8 +1,8 @@
 # JavaApi
 
 
-JAVA Spring Boot Application.
-Basic CRUD repository.
+## JAVA Spring Boot Application.
+##Basic CRUD repository.
 
 
-Good for JAV API silhouette
+   Actually a JAVA Spring Boot API silhouette
